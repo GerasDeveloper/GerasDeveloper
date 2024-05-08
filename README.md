@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/GerasDeveloper"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Geraldo Oliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0f141b" alt="Geraldo Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldo Oliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0f141b" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GerasDeveloper&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0f141b" alt="Geraldo Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerasDeveloper&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0f141b" />
 </div>
 
 ##

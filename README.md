@@ -1,16 +1,15 @@
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lipez-x&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0f141b" alt="Felipe Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipez-x&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0f141b" />
-</div>
-
-<div align="center">
-
 ### Hello! My name is Geraldo Oliveira 👋
 
 - 👨‍💻 I have a technical degree in IT.
 - 👨‍🎓 I'm studying Information Systems 1/8.
 - 📃 AWS-Academy: https://www.credly.com/badges/c077496d-8fdc-490d-a150-97b1e269ade3 
 <img align="end" alt="Geras-AWS" height="100" width="100" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" />
+
+<div>
+  <a href="https://github.com/GerasDeveloper"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Geraldo Oliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0f141b" alt="Geraldo Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldo Oliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0f141b" />
+</div>
 
 ##
 

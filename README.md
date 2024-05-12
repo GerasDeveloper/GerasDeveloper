@@ -5,7 +5,7 @@
 - 👨‍💻 I have a technical degree in IT.
 - 👨‍🎓 I'm studying Information Systems 1/8.
 - 📃 AWS-Academy: https://www.credly.com/badges/c077496d-8fdc-490d-a150-97b1e269ade3 
-<img align="end" alt="Geras-AWS" height="100" width="100" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" />
+
 
 <div>
   <a href="https://github.com/GerasDeveloper"/>
@@ -27,6 +27,12 @@
 </div>
   
   ##
+  
+
+## Courses:
+  <img align="end" alt="Geras-AWS" height="100" width="100" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" />
+
+##
   
   ### Connect with me:
  

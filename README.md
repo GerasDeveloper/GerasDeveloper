@@ -7,6 +7,7 @@
 - 👨‍🎓 I'm studying Information Systems 1/8.
 - 📃 AWS-Academy: https://www.credly.com/badges/c077496d-8fdc-490d-a150-97b1e269ade3 
 
+##
 
 <div>
   <a href="https://github.com/GerasDeveloper"/>

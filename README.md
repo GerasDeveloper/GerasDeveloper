@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05CDDA&height=120&section=header"/>
 
 ### Hello! My name is Geraldo Oliveira 👋
 
